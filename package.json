@@ -1,0 +1,25 @@
+{
+  "name": "ibge",
+  "version": "0.1.0",
+  "description": "IBGE api consumption command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grvcoelho/ibge.git"
+  },
+  "keywords": [
+    "ibge",
+    "api",
+    "data",
+    "cli"
+  ],
+  "author": "Guilherme Rv Coelho <@grvcoelho>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grvcoelho/ibge/issues"
+  },
+  "homepage": "https://github.com/grvcoelho/ibge#readme"
+}
